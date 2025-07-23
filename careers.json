@@ -1,0 +1,192 @@
+{
+    "Architect": {
+        "description": "Architects plan and design buildings and other physical structures. They blend art and science to create functional, safe, and aesthetically pleasing spaces for people to live and work in.",
+        "salary_inr": "₹5 LPA - ₹18 LPA+",
+        "opportunities": ["Architectural Firms (Hafeez Contractor, Morphogenesis)", "Real Estate Developers (DLF, Godrej)", "Government (CPWD, ASI)", "Urban Planning Bodies", "Starting their own practice"],
+        "future_prospects": "Growing demand in sustainable and green building design. As cities expand, the need for innovative urban design and housing solutions creates many opportunities.",
+        "universities": ["School of Planning and Architecture (SPA) Delhi", "CEPT University Ahmedabad", "IIT Roorkee", "IIT Kharagpur", "Sir J.J. College of Architecture"],
+        "category": "Graduate",
+        "skills": { "hard_skills": ["CAD Software (AutoCAD)", "BIM Software (Revit)", "3D Modeling (SketchUp)", "Structural Knowledge", "Drawing & Sketching"], "soft_skills": ["Creativity", "Visualisation", "Project Management", "Client Communication", "Attention to Detail"] },
+        "roadmap": [ "Step 1: Complete Class 12 with Physics, Chemistry, and Maths (PCM).", "Step 2: Qualify in entrance exams like NATA (National Aptitude Test in Architecture) or JEE Main (Paper 2 for B.Arch).", "Step 3: Enroll and complete the 5-year Bachelor of Architecture (B.Arch) degree program.", "Step 4: Complete the mandatory practical training/internship as part of the curriculum.", "Step 5: Register with the Council of Architecture (COA) to get a license to practice as an architect." ],
+        "tags": ["Creative", "Design", "Art", "Building", "Math", "Visualisation", "Detail-Oriented"],
+        "resources": {
+            "professional_body": { "name": "Council of Architecture (COA)", "url": "https://www.coa.gov.in/" },
+            "youtube_channel": { "name": "30X40 Design Workshop", "url": "https://www.youtube.com/c/30x40" },
+            "online_course": { "name": "The Architectural Imagination (edX)", "url": "https://www.edx.org/course/the-architectural-imagination" }
+        }
+    },
+    "Chartered Accountant (CA)": {
+        "description": "Chartered Accountants are experts in accounting, auditing, taxation, and financial management. They are crucial for ensuring financial compliance and strategy in businesses.",
+        "salary_inr": "₹8 LPA - ₹25 LPA+",
+        "opportunities": ["Big 4 Audit Firms (Deloitte, PwC, EY, KPMG)", "Corporate Finance Departments (Reliance, Tata Group)", "Banking Sector", "Independent Practice", "Management Consulting"],
+        "future_prospects": "A highly respected and stable profession. CAs are always in demand for financial discipline in a growing economy. Specialization in international tax or forensic audit is lucrative.",
+        "universities": ["The Institute of Chartered Accountants of India (ICAI) is the sole governing body."],
+        "category": "Graduate",
+        "skills": { "hard_skills": ["Accounting Standards (Ind AS)", "Auditing", "Taxation (Direct & Indirect)", "Financial Management", "Tally/ERP Software"], "soft_skills": ["Analytical Skills", "Ethical Judgement", "Attention to Detail", "Communication"] },
+        "roadmap": [ "Step 1: After Class 10, register for the CA Foundation course (can appear for the exam after Class 12).", "Step 2: Clear the CA Foundation exam.", "Step 3: Register for and clear both groups of the CA Intermediate exam.", "Step 4: Complete a mandatory 3-year articleship (internship) under a practicing CA to gain practical experience.", "Step 5: Clear both groups of the CA Final exam to earn the prestigious CA designation." ],
+        "tags": ["Finance", "Analytical", "Detail-Oriented", "Structured", "Math", "Business", "Problem-Solving"],
+        "resources": {
+            "professional_body": { "name": "The Institute of Chartered Accountants of India (ICAI)", "url": "https://www.icai.org/" },
+            "youtube_channel": { "name": "CA Neeraj Arora", "url": "https://www.youtube.com/c/NeerajArora" },
+            "must_read_book": { "name": "Accounting Made Simple by Mike Piper", "url": "https://www.amazon.in/Accounting-Made-Simple-Explained-Accountants/dp/1499169925" }
+        }
+    },
+    "Civil Servant (IAS/IPS)": {
+        "description": "Civil Servants are the administrative backbone of the Indian government. They are responsible for policy formulation, implementation, and managing the affairs of the government at the district, state, and national levels.",
+        "salary_inr": "₹10 LPA - ₹25 LPA (Including all benefits and perks)",
+        "opportunities": ["Indian Administrative Service (IAS)", "Indian Police Service (IPS)", "Indian Foreign Service (IFS)", "Indian Revenue Service (IRS)", "Various other Group A & B services"],
+        "future_prospects": "A career of immense prestige, power, and social impact. It offers unparalleled opportunity to contribute to the nation's development. The role is stable and highly respected.",
+        "universities": ["Any recognized university in India. The degree subject does not matter, the exam does."],
+        "category": "Postgraduate",
+        "skills": { "hard_skills": ["Deep knowledge of Indian Polity, History, Geography, and Economy", "Public Administration", "Policy Analysis"], "soft_skills": ["Leadership", "Decision Making Under Pressure", "Integrity & Ethics", "Communication", "Problem-Solving"] },
+        "roadmap": [ "Step 1: Complete a Bachelor's degree in any discipline from a recognized university.", "Step 2: Dedicate 1-2 years to intensive preparation for the UPSC Civil Services Examination (CSE).", "Step 3: Clear the Preliminary Exam (Objective type).", "Step 4: Clear the Main Exam (Descriptive, 9 papers). This is the most critical stage.", "Step 5: Clear the final Personality Test (Interview).", "Step 6: Based on your final rank, get allocated to a service like IAS, IPS, IFS, etc. and undergo training." ],
+        "tags": ["Leadership", "Social-Impact", "Government", "Management", "Decision-Making", "Humanities", "Structured"],
+        "resources": {
+            "professional_body": { "name": "Union Public Service Commission (UPSC)", "url": "https://upsc.gov.in/" },
+            "youtube_channel": { "name": "Drishti IAS", "url": "https://www.youtube.com/c/DrishtiIASvideos" },
+            "must_read_book": { "name": "Indian Polity by M. Laxmikanth", "url": "https://www.amazon.in/Indian-Polity-M-Laxmikanth/dp/9352603630" }
+        }
+    },
+    "Data Scientist": {
+        "description": "Data Scientists use advanced analytics techniques, including machine learning and predictive modeling, to extract valuable insights from data. They help businesses make smarter, data-driven decisions.",
+        "salary_inr": "₹12 LPA - ₹40 LPA+",
+        "opportunities": ["Tech Companies (Amazon, Microsoft)", "E-commerce (Flipkart, Myntra)", "Consulting Firms (BCG GAMMA, Mu Sigma)", "Financial Services (FinTech, Banks)"],
+        "future_prospects": "One of the most in-demand roles globally. As companies collect more data, the need for professionals who can turn that data into action will only grow.",
+        "universities": ["M.Tech from IITs/IISc", "PG Diploma from upGrad/Great Lakes", "Specialized courses online"],
+        "category": "Postgraduate",
+        "skills": { "hard_skills": ["Python/R", "SQL", "Machine Learning", "Statistics", "Data Visualization (Tableau, PowerBI)"], "soft_skills": ["Business Acumen", "Storytelling with Data", "Curiosity", "Problem-Solving"] },
+        "roadmap": [ "Step 1: Get a strong quantitative undergraduate degree (Engineering, Stats, Econ, Math).", "Step 2: Pursue a Master's degree or a specialized postgraduate diploma in Data Science or AI/ML.", "Step 3: Build a strong portfolio of projects on GitHub/Kaggle showcasing your skills.", "Step 4: Master the statistical and machine learning concepts required for interviews.", "Step 5: Start as a Data Scientist and specialize in an area like NLP, Computer Vision, or Business Analytics." ],
+        "tags": ["Analytical", "Statistics", "Math", "Problem-Solving", "Technology", "Curiosity", "Business-Acumen"],
+        "resources": {
+            "online_course": { "name": "Machine Learning by Andrew Ng (Coursera)", "url": "https://www.coursera.org/learn/machine-learning" },
+            "youtube_channel": { "name": "Krish Naik", "url": "https://www.youtube.com/user/krishnaik06" },
+            "must_read_book": { "name": "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow", "url": "https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9352139054" }
+        }
+    },
+    "Defense Services Officer": {
+        "description": "Officers in the Indian Armed Forces (Army, Navy, Air Force) lead teams of soldiers, sailors, or airmen. They are responsible for national security, strategic planning, and managing personnel and equipment.",
+        "salary_inr": "₹10 LPA - ₹25 LPA (Including all benefits and perks)",
+        "opportunities": ["Indian Army (Infantry, Armoured Corps)", "Indian Navy (Executive, Engineering Branch)", "Indian Air Force (Flying, Technical, Ground Duty)"],
+        "future_prospects": "A career of unparalleled honour, adventure, and patriotism. It offers a disciplined lifestyle, excellent perks, and the opportunity to serve the nation at the highest level.",
+        "universities": ["National Defence Academy (NDA), Pune", "Indian Military Academy (IMA), Dehradun", "Indian Naval Academy (INA), Ezhimala", "Air Force Academy (AFA), Dundigal"],
+        "category": "Graduate",
+        "skills": { "hard_skills": ["Strategic Planning", "Weapon Systems Knowledge", "Map Reading & Navigation", "Physical Fitness"], "soft_skills": ["Leadership", "Discipline", "Integrity", "Courage", "Quick Decision Making"] },
+        "roadmap": [ "Path A (Post-12th): Clear the UPSC NDA & NA exam, followed by the rigorous 5-day SSB interview. Train for 3 years at NDA.", "Path B (Post-Graduation): Clear entrance exams like CDS (for all three services), AFCAT (for Air Force), or specific technical entries.", "Step 3: Undergo intensive training at the respective service academies (e.g., IMA, AFA, INA).", "Step 4: Get commissioned as a Lieutenant (Army), Sub-Lieutenant (Navy), or Flying Officer (Air Force).", "Step 5: Serve the nation with pride and progress through the ranks based on performance and service." ],
+        "tags": ["Leadership", "Teamwork", "High-Pressure", "Discipline", "Patriotism", "Adventure", "Hands-On"],
+        "resources": {
+            "professional_body": { "name": "Join Indian Army/Navy/Air Force Official Websites", "url": "https://joinindianarmy.nic.in/" },
+            "youtube_channel": { "name": "SSBcrack Exams", "url": "https://www.youtube.com/c/SSBCrackExams" },
+            "must_read_book": { "name": "Let's Crack SSB Interview by SSBCrack", "url": "https://www.amazon.in/Lets-Crack-SSB-Interview-SSBCrack/dp/9352715875" }
+        }
+    },
+    "Doctor (Physician)": {
+        "description": "Physicians diagnose and treat injuries or illnesses. This is a foundational role in healthcare requiring extensive education (an undergraduate degree followed by medical school, which is a postgraduate doctorate).",
+        "salary_inr": "₹15 LPA - ₹50 LPA+ (Varies by Specialty)",
+        "opportunities": ["Top Hospitals (AIIMS, Apollo, Fortis)", "Private Practice/Clinic", "Government Health Services", "Medical Research", "Academia"],
+        "category": "Postgraduate",
+        "skills": { "hard_skills": ["Medical Diagnosis", "Clinical Procedures", "Pharmacology", "Interpreting Lab Results"], "soft_skills": ["Empathy & Bedside Manner", "Calmness Under Pressure", "Communication", "Ethics"] },
+        "roadmap": [ "Step 1: Complete Class 12 with Physics, Chemistry, and Biology (PCB).", "Step 2: Prepare for and crack the NEET-UG entrance examination with a high rank.", "Step 3: Complete the 5.5-year MBBS degree program, which includes a one-year mandatory internship.", "Step 4: Prepare for and crack the NEET-PG entrance exam to pursue a specialization.", "Step 5: Complete a 3-year residency (MD/MS) in your chosen specialty (e.g., General Medicine, Surgery, Pediatrics).", "Step 6: Optionally, pursue a super-specialty (DM/MCh) for further expertise. Obtain a license to practice medicine." ],
+        "tags": ["Helping", "Science", "Biology", "Empathy", "High-Pressure", "Problem-Solving", "Detail-Oriented"],
+        "resources": {
+            "professional_body": { "name": "National Medical Commission (NMC)", "url": "https://www.nmc.org.in/" },
+            "youtube_channel": { "name": "The White Army", "url": "https://www.youtube.com/c/TheWhiteArmy" },
+            "online_course": { "name": "Anatomy by Stanford School of Medicine (YouTube)", "url": "https://www.youtube.com/playlist?list=PL2DF223794F80C424" }
+        }
+    },
+    "Electronics & Communication Engineer (ECE)": {
+        "description": "ECE engineers design, develop, and test electronic equipment and communication systems. They work on everything from mobile phones and IoT devices to satellite and optical communication.",
+        "salary_inr": "₹6 LPA - ₹25 LPA+",
+        "opportunities": ["Semiconductor Industry (Intel, Qualcomm, NVIDIA)", "Telecommunications (Jio, Airtel, Ericsson)", "Consumer Electronics (Samsung, Apple)", "Automotive Electronics (Bosch)"],
+        "future_prospects": "Very high demand driven by 5G, IoT, and the global push for more advanced semiconductor chips. Specialization in VLSI (chip design) is extremely lucrative.",
+        "universities": ["IITs (Kharagpur, Madras)", "IIITs (Bangalore)", "NITs (Surathkal)", "BITS Pilani"],
+        "category": "Graduate",
+        "skills": { "hard_skills": ["VLSI Design", "Embedded Systems (C/C++)", "Digital Signal Processing (DSP)", "VHDL/Verilog", "Analog & Digital Circuits"], "soft_skills": ["Problem-Solving", "Analytical Thinking", "Attention to Detail", "Innovation"] },
+        "roadmap": [ "Step 1: Complete Class 12 with PCM and secure a good rank in JEE Main/Advanced or other entrance exams.", "Step 2: Complete a 4-year B.Tech/B.E. in Electronics & Communication Engineering.", "Step 3: Focus on a specialization like VLSI, Embedded Systems, or Communications during your degree.", "Step 4: Work on practical projects, such as designing a circuit board or programming a microcontroller.", "Step 5: Join as a Design Engineer, Verification Engineer, or an Embedded Software Engineer in a core company." ],
+        "tags": ["Technology", "Physics", "Math", "Building", "Problem-Solving", "Detail-Oriented", "Logical"],
+        "resources": {
+            "professional_body": { "name": "IEEE (Institute of Electrical and Electronics Engineers)", "url": "https://www.ieee.org/" },
+            "youtube_channel": { "name": "Neso Academy", "url": "https://www.youtube.com/c/NesoAcademy" },
+            "online_course": { "name": "Circuits and Electronics (edX by MITx)", "url": "https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysis" }
+        }
+    },
+    "Electrical Engineer (EEE)": {
+        "description": "Electrical Engineers design, develop, and maintain electrical systems for various sectors, focusing on power generation, transmission, distribution, and electrical machinery.",
+        "salary_inr": "₹5 LPA - ₹20 LPA",
+        "opportunities": ["Public Sector (NTPC, Power Grid, BHEL)", "Heavy Industry (L&T, Siemens)", "Renewable Energy Sector (Adani Green, Tata Power)", "Automotive (EV Development)"],
+        "future_prospects": "The global shift to electric vehicles and renewable energy sources (solar, wind) has created a massive, long-term demand for skilled electrical engineers.",
+        "universities": ["IITs (Delhi, Madras)", "NITs (Tiruchirappalli, Warangal)", "Jadavpur University"],
+        "category": "Graduate",
+        "skills": { "hard_skills": ["Power Systems Analysis", "Control Systems", "Electrical Machines", "Circuit Theory", "PLC/SCADA"], "soft_skills": ["Project Management", "Safety Compliance", "Analytical Skills", "Problem-Solving"] },
+        "roadmap": [ "Step 1: Complete Class 12 with PCM and qualify in JEE or state-level engineering entrance exams.", "Step 2: Complete a 4-year B.Tech/B.E. in Electrical or Electrical & Electronics Engineering.", "Step 3: Undertake internships in power plants, manufacturing units, or renewable energy companies.", "Step 4: Prepare for competitive exams like GATE for public sector jobs or higher studies (M.Tech).", "Step 5: Start a career as a Graduate Engineer Trainee in the core sector or move into tech roles." ],
+        "tags": ["Technology", "Physics", "Math", "Building", "Problem-Solving", "Hands-On", "Logical"],
+        "resources": {
+            "professional_body": { "name": "IEEE Power & Energy Society", "url": "https://www.ieee-pes.org/" },
+            "youtube_channel": { "name": "The Electrical Guy", "url": "https://www.youtube.com/c/TheElectricalGuy" },
+            "online_course": { "name": "NPTEL Electrical Engineering courses", "url": "https://nptel.ac.in/course.html" }
+        }
+    },
+    "Fashion Designer": {
+        "description": "Fashion Designers create original clothing, accessories, and footwear. They sketch designs, select fabrics and patterns, and give instructions on how to make the products they designed.",
+        "salary_inr": "₹4 LPA - ₹20 LPA+",
+        "opportunities": ["Retail Brands (Myntra, Zara, H&M)", "Export Houses", "Luxury Designer Labels (Sabyasachi, Manish Malhotra)", "Film & Television Industry", "Starting their own label"],
+        "future_prospects": "A competitive but highly creative field. Sustainability and ethical fashion are major trends. Digital fashion and design for the metaverse are emerging as new, exciting frontiers.",
+        "universities": ["National Institute of Fashion Technology (NIFT)", "National Institute of Design (NID)", "Pearl Academy", "Symbiosis Institute of Design"],
+        "category": "Graduate",
+        "skills": { "hard_skills": ["Sketching & Illustration", "Pattern Making & Draping", "Textile Knowledge", "Sewing & Garment Construction", "Adobe Illustrator/Photoshop"], "soft_skills": ["Creativity", "Visualisation", "Trend Awareness", "Business Acumen", "Communication"] },
+        "roadmap": [ "Step 1: After Class 12, prepare for and clear design school entrance exams like NIFT or NID entrance test.", "Step 2: Complete a 4-year Bachelor of Design (B.Des) in Fashion Design or a related field.", "Step 3: Develop a strong, creative portfolio throughout your college years.", "Step 4: Gain industry exposure through multiple internships with designers or export houses.", "Step 5: Start as an assistant designer and work your way up, or launch your own independent brand." ],
+        "tags": ["Creative", "Art", "Design", "Visualisation", "Hands-On", "Detail-Oriented", "Business"],
+        "resources": {
+            "professional_body": { "name": "Fashion Design Council of India (FDCI)", "url": "https://www.fdci.org/" },
+            "youtube_channel": { "name": "Zoe Hong", "url": "https://www.youtube.com/c/zoehong" },
+            "must_read_book": { "name": "The Fashion Designer's Survival Guide by Mary Gehlhar", "url": "https://www.amazon.in/Fashion-Designers-Survival-Guide-Revised/dp/160774709X" }
+        }
+    },
+    "Financial Analyst": {
+        "description": "Financial Analysts guide businesses and individuals in making investment decisions. They analyze financial data, create financial models, and research economic trends to make recommendations.",
+        "salary_inr": "₹8 LPA - ₹30 LPA+",
+        "opportunities": ["Investment Banking (J.P. Morgan, Goldman Sachs)", "Equity Research Firms (Motilal Oswal)", "Asset Management Companies (HDFC AMC)", "Corporate Finance (FP&A roles)"],
+        "future_prospects": "A high-pressure, high-reward field. Professionals with CFA (Chartered Financial Analyst) certification are highly sought after globally. The rise of FinTech creates new types of analytical roles.",
+        "universities": ["SRCC (B.Com Hons)", "Christ University (BBA Finance)", "NMIMS Mumbai", "Top IIMs for post-MBA roles"],
+        "category": "Graduate",
+        "skills": { "hard_skills": ["Financial Modeling", "Advanced Excel", "Valuation Techniques (DCF, Comps)", "Equity Research", "Python for Finance"], "soft_skills": ["Analytical Mindset", "Attention to Detail", "Communication", "Ability to work under pressure"] },
+        "roadmap": [ "Step 1: Complete a Bachelor's degree in a quantitative field like Commerce, Finance, Economics, or Engineering.", "Step 2: Pursue professional certifications like CFA (highly recommended) or FRM while working.", "Step 3: Master financial modeling and valuation through online courses and self-study.", "Step 4: Start with an entry-level role in a KPO, a boutique investment firm, or a corporate finance department.", "Step 5: Move to front-end, high-finance roles in equity research or investment banking after gaining experience or an MBA." ],
+        "tags": ["Finance", "Analytical", "Math", "Problem-Solving", "High-Pressure", "Detail-Oriented", "Business"],
+        "resources": {
+            "professional_body": { "name": "CFA Institute", "url": "https://www.cfainstitute.org/" },
+            "youtube_channel": { "name": "Aswath Damodaran", "url": "https://www.youtube.com/c/AswathDamodaranonValuation" },
+            "online_course": { "name": "Financial Markets by Yale (Coursera)", "url": "https://www.coursera.org/learn/financial-markets-global" }
+        }
+    },
+    "Journalist / Mass Communication": {
+        "description": "Journalists research, write, and present news stories and articles for various media outlets. They inform the public about local, national, and international events.",
+        "salary_inr": "₹4 LPA - ₹15 LPA+",
+        "opportunities": ["Print Media (The Times of India, The Hindu)", "Broadcast Media (NDTV, India Today)", "Digital Media (The Quint, Scroll.in)", "Public Relations Agencies", "Corporate Communications"],
+        "future_prospects": "The industry is shifting rapidly from print to digital. Skills in video journalism, podcasting, data journalism, and social media engagement are now crucial for a successful career.",
+        "universities": ["Indian Institute of Mass Communication (IIMC), Delhi", "A.J.K. Mass Communication Research Centre (Jamia Millia Islamia)", "Symbiosis Centre for Media & Communication", "Xavier Institute of Communications (XIC)"],
+        "category": "Graduate",
+        "skills": { "hard_skills": ["Reporting & News Writing", "Interviewing Techniques", "Video Editing", "Search Engine Optimization (SEO)", "Fact-Checking"], "soft_skills": ["Curiosity", "Communication", "Integrity", "Ability to meet deadlines", "Networking"] },
+        "roadmap": [ "Step 1: Complete a Bachelor's degree, preferably in Journalism & Mass Communication (BJMC) or English Hons.", "Step 2: A Postgraduate Diploma from a top institute like IIMC is highly beneficial.", "Step 3: Build a strong portfolio of published articles or video reports through freelance work or college publications.", "Step 4: Complete internships at different types of media houses (print, digital, broadcast) to find your niche.", "Step 5: Start as a trainee or reporter and specialize in a beat like politics, business, technology, or sports." ],
+        "tags": ["Communicating", "Writing", "Reading", "Curiosity", "Social-Impact", "Humanities", "Adaptability"],
+        "resources": {
+            "professional_body": { "name": "Press Information Bureau (PIB)", "url": "https://pib.gov.in/" },
+            "youtube_channel": { "name": "Newslaundry", "url": "https://www.youtube.com/c/Newslaundry" },
+            "must_read_book": { "name": "Everybody Loves a Good Drought by P. Sainath", "url": "https://www.amazon.in/Everybody-Loves-Good-Drought-Stories/dp/0140259848" }
+        }
+    },
+    "UI/UX Designer": {
+        "description": "UI (User Interface) Designers focus on the visual layout and look of a digital product. UX (User Experience) Designers focus on the overall feel, usability, and user journey. Often, these roles are combined.",
+        "salary_inr": "₹8 LPA - ₹35 LPA+",
+        "opportunities": ["Tech Product Companies (Google, Microsoft)", "High-Growth Startups (CRED, Unacademy)", "E-commerce (Flipkart, Amazon)", "Design Agencies", "Freelancing"],
+        "future_prospects": "Extremely high-demand field as companies realize that good design is a key business differentiator. Specializing in areas like voice UI, AR/VR, or accessibility will be highly valuable.",
+        "universities": ["National Institute of Design (NID)", "IDC School of Design (IIT Bombay)", "MIT Institute of Design", "Many professionals are self-taught with a strong portfolio."],
+        "category": "Graduate",
+        "skills": { "hard_skills": ["Design Tools (Figma, Sketch, Adobe XD)", "Wireframing & Prototyping", "User Research", "Interaction Design", "Usability Testing"], "soft_skills": ["Empathy", "Communication", "Problem-Solving", "Collaboration", "Creativity"] },
+        "roadmap": [ "Step 1: Pursue a Bachelor's degree, preferably in Design (B.Des), but any field is acceptable.", "Step 2: Learn the fundamental principles of design, color theory, and typography.", "Step 3: Master industry-standard tools like Figma by taking online courses and practicing.", "Step 4: Build a strong online portfolio with 3-4 detailed case studies of design projects.", "Step 5: Secure internships to gain real-world experience and start your career as a UI/UX Designer." ],
+        "tags": ["Creative", "Design", "Technology", "Empathy", "Problem-Solving", "User-Focused", "Teamwork"],
+        "resources": {
+            "online_course": { "name": "Google UX Design Professional Certificate (Coursera)", "url": "https://www.coursera.org/professional-certificates/google-ux-design" },
+            "youtube_channel": { "name": "Figma", "url": "https://www.youtube.com/c/figmadesign" },
+            "must_read_book": { "name": "Don't Make Me Think by Steve Krug", "url": "https://www.amazon.in/Dont-Make-Me-Think-Revisited/dp/0321965515" }
+        }
+    }
+}

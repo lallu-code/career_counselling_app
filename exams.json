@@ -1,0 +1,96 @@
+{
+  "Engineering": [
+    {
+      "name": "JEE (Main & Advanced)",
+      "full_name": "Joint Entrance Examination",
+      "website": "https://jeemain.nta.nic.in/",
+      "info": "The most important exam for admission to undergraduate engineering programs at IITs, NITs, IIITs, and other top institutions.",
+      "colleges": ["All IITs", "All NITs", "All IIITs"]
+    },
+    {
+      "name": "BITSAT",
+      "full_name": "BITS Admission Test",
+      "website": "https://www.bitsadmission.com/",
+      "info": "A competitive computer-based online test for admission to the integrated first-degree programs of BITS Pilani campuses.",
+      "colleges": ["BITS Pilani", "BITS Goa", "BITS Hyderabad"]
+    },
+    {
+      "name": "VITEEE",
+      "full_name": "Vellore Institute of Technology Engineering Entrance Examination",
+      "website": "https://viteee.vit.ac.in/",
+      "info": "A national level entrance exam for admission to engineering programs at VIT campuses.",
+      "colleges": ["VIT Vellore", "VIT Chennai"]
+    },
+    {
+      "name": "GATE",
+      "full_name": "Graduate Aptitude Test in Engineering",
+      "website": "https://gate.iitk.ac.in/",
+      "info": "A prestigious national-level exam for admission into Master's (M.Tech) programs and for recruitment by various Public Sector Undertakings (PSUs). It tests the comprehensive understanding of various undergraduate subjects in engineering and science.",
+      "colleges": ["IISc Bangalore", "All IITs (for M.Tech)", "All NITs (for M.Tech)", "PSUs like ONGC, IOCL, BHEL for jobs"]
+    }
+  ],
+  "Medical": [
+    {
+      "name": "NEET-UG",
+      "full_name": "National Eligibility cum Entrance Test (Undergraduate)",
+      "website": "https://neet.nta.nic.in/",
+      "info": "The single, all-India entrance examination for students who wish to study undergraduate medical (MBBS) and dental (BDS) courses.",
+      "colleges": ["AIIMS Delhi", "CMC Vellore", "JIPMER Puducherry", "KGMU Lucknow"]
+    }
+  ],
+  "Law": [
+    {
+      "name": "CLAT",
+      "full_name": "Common Law Admission Test",
+      "website": "https://consortiumofnlus.ac.in/",
+      "info": "A centralized national level entrance test for admissions to 22 National Law Universities (NLUs) in India.",
+      "colleges": ["NLSIU Bangalore", "NALSAR Hyderabad", "WBNUJS Kolkata"]
+    },
+    {
+      "name": "AILET",
+      "full_name": "All India Law Entrance Test",
+      "website": "https://nationallawuniversitydelhi.in/",
+      "info": "Conducted specifically for admission to the B.A. LLB (Hons.) program at National Law University, Delhi (NLU-D).",
+      "colleges": ["National Law University (NLU), Delhi"]
+    }
+  ],
+  "Design": [
+    {
+      "name": "NID DAT",
+      "full_name": "National Institute of Design - Design Aptitude Test",
+      "website": "https://admissions.nid.edu/",
+      "info": "A two-stage entrance exam for admission to Bachelor of Design (B.Des) and Master of Design (M.Des) programs at NIDs.",
+      "colleges": ["NID Ahmedabad", "NID Bengaluru", "NID Gandhinagar"]
+    },
+    {
+      "name": "NIFT Entrance Exam",
+      "full_name": "National Institute of Fashion Technology Entrance Exam",
+      "website": "https://www.nift.ac.in/",
+      "info": "An entrance exam for admission to design (B.Des) and technology (B.F.Tech) programs at NIFT campuses across India.",
+      "colleges": ["NIFT Delhi", "NIFT Mumbai", "NIFT Bengaluru"]
+    },
+    {
+      "name": "UCEED",
+      "full_name": "Undergraduate Common Entrance Examination for Design",
+      "website": "https://www.uceed.iitb.ac.in/",
+      "info": "Conducted by IIT Bombay for admission to Bachelor of Design (B.Des) programs at IIT Bombay, IIT Delhi, IIT Guwahati, and IIT Hyderabad.",
+      "colleges": ["IIT Bombay", "IIT Delhi", "IIT Guwahati", "IIT Hyderabad"]
+    }
+  ],
+  "Management": [
+    {
+        "name": "CAT",
+        "full_name": "Common Admission Test",
+        "website": "https://iimcat.ac.in/",
+        "info": "The premier entrance exam for admission to MBA and other postgraduate management programs at all IIMs and many other top B-schools in India.",
+        "colleges": ["All IIMs", "FMS Delhi", "SPJIMR Mumbai"]
+    },
+    {
+        "name": "XAT",
+        "full_name": "Xavier Aptitude Test",
+        "website": "https://xatonline.in/",
+        "info": "A national-level management entrance test for admission to XLRI Jamshedpur and other prestigious management institutes.",
+        "colleges": ["XLRI Jamshedpur", "IMT Ghaziabad", "XIMB Bhubaneswar"]
+    }
+  ]
+}

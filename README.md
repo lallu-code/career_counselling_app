@@ -4,7 +4,7 @@
 
 An interactive web app built with Streamlit to help students in India discover, compare, and plan their ideal career paths.
 
-![Career Counselling App Screenshot]("app-screenshots.png")
+![Career Counselling App Screenshot](app-screenshots.png)
 
 ### ✨ Key Features
 

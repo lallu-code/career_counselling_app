@@ -4,6 +4,8 @@
 
 An interactive web app built with Streamlit to help students in India discover, compare, and plan their ideal career paths.
 
+![Career Counselling App Screenshot]("app-screenshots.png")
+
 ### ✨ Key Features
 
 This application provides a comprehensive suite of tools to guide students through the complex process of career selection:
@@ -19,3 +21,20 @@ This application provides a comprehensive suite of tools to guide students throu
 *   **Framework:** Streamlit
 *   **Language:** Python
 *   **Data Storage:** JSON
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   ```sh
+   git clone [https://github.com/lallu-code/career_counselling_app]
+
+   Navigate to the project directory:
+cd career-counselling-app
+
+Install the required dependencies:
+pip install -r requirements.txt
+
+Run the Streamlit app:
+streamlit run career_app.py
+
+These are instructions on how to run it locally.

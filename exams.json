@@ -3,94 +3,218 @@
     {
       "name": "JEE (Main & Advanced)",
       "full_name": "Joint Entrance Examination",
-      "website": "https://jeemain.nta.nic.in/",
-      "info": "The most important exam for admission to undergraduate engineering programs at IITs, NITs, IIITs, and other top institutions.",
-      "colleges": ["All IITs", "All NITs", "All IIITs"]
-    },
-    {
-      "name": "BITSAT",
-      "full_name": "BITS Admission Test",
-      "website": "https://www.bitsadmission.com/",
-      "info": "A competitive computer-based online test for admission to the integrated first-degree programs of BITS Pilani campuses.",
-      "colleges": ["BITS Pilani", "BITS Goa", "BITS Hyderabad"]
-    },
-    {
-      "name": "VITEEE",
-      "full_name": "Vellore Institute of Technology Engineering Entrance Examination",
-      "website": "https://viteee.vit.ac.in/",
-      "info": "A national level entrance exam for admission to engineering programs at VIT campuses.",
-      "colleges": ["VIT Vellore", "VIT Chennai"]
+      "info": "The most prominent entrance exam for undergraduate engineering programs (B.Tech/BE) in India, including admission to IITs, NITs, and other top engineering colleges.",
+      "colleges": ["IITs", "NITs", "IIITs", "CFTIs"],
+      "website": "https://jeemain.nta.nic.in/"
     },
     {
       "name": "GATE",
       "full_name": "Graduate Aptitude Test in Engineering",
-      "website": "https://gate.iitk.ac.in/",
-      "info": "A prestigious national-level exam for admission into Master's (M.Tech) programs and for recruitment by various Public Sector Undertakings (PSUs). It tests the comprehensive understanding of various undergraduate subjects in engineering and science.",
-      "colleges": ["IISc Bangalore", "All IITs (for M.Tech)", "All NITs (for M.Tech)", "PSUs like ONGC, IOCL, BHEL for jobs"]
+      "info": "A national-level examination for admission into Postgraduate (M.Tech/MS) and Doctoral (PhD) programs, and also for PSU recruitment.",
+      "colleges": ["IISc Bangalore", "IITs", "NITs", "PSU Recruitment"],
+      "website": "https://gate2025.iisc.ac.in/"
+    },
+    {
+      "name": "BITSAT",
+      "full_name": "Birla Institute of Technology and Science Admission Test",
+      "info": "A computer-based online test for admission to integrated first-degree programs of BITS Pilani at its campuses in Pilani, Goa, and Hyderabad.",
+      "colleges": ["BITS Pilani", "BITS Goa", "BITS Hyderabad"],
+      "website": "https://www.bitsadmission.com/"
+    },
+    {
+      "name": "VITEEE",
+      "full_name": "Vellore Institute of Technology Engineering Entrance Examination",
+      "info": "Entrance exam for admission to undergraduate engineering programs in Vellore Institute of Technology (VIT) campuses.",
+      "colleges": ["VIT Vellore", "VIT Chennai", "VIT AP", "VIT Bhopal"],
+      "website": "https://viteee.vit.ac.in/"
+    },
+    {
+      "name": "State CETs (MHT-CET, KCET, etc.)",
+      "full_name": "State Common Entrance Tests",
+      "info": "Exams conducted by individual state governments for admission to engineering colleges within that state (e.g., MHT-CET for Maharashtra, KCET for Karnataka).",
+      "colleges": ["Various top state-level engineering colleges"],
+      "website": "https://www.google.com/search?q=your+state+engineering+entrance+exam"
     }
   ],
   "Medical": [
     {
       "name": "NEET-UG",
       "full_name": "National Eligibility cum Entrance Test (Undergraduate)",
-      "website": "https://neet.nta.nic.in/",
-      "info": "The single, all-India entrance examination for students who wish to study undergraduate medical (MBBS) and dental (BDS) courses.",
-      "colleges": ["AIIMS Delhi", "CMC Vellore", "JIPMER Puducherry", "KGMU Lucknow"]
+      "info": "The single entrance examination for admission to MBBS and BDS courses in all medical institutions in India, including AIIMS and JIPMER.",
+      "colleges": ["AIIMS", "JIPMER", "CMC Vellore", "KMC Manipal"],
+      "website": "https://neet.nta.nic.in/"
+    },
+    {
+      "name": "NEET-PG / INI-CET",
+      "full_name": "National Eligibility cum Entrance Test (Postgraduate) / Institute of National Importance Combined Entrance Test",
+      "info": "Qualifying entrance examinations for admission to various MD/MS and PG Diploma courses. INI-CET is for top institutes like AIIMS, JIPMER, and PGIMER.",
+      "colleges": ["Top medical colleges for postgraduate specialization"],
+      "website": "https://nbe.edu.in/"
+    }
+  ],
+  "Management": [
+    {
+      "name": "CAT",
+      "full_name": "Common Admission Test",
+      "info": "The primary entrance test for admission to MBA/PGDM programs in the Indian Institutes of Management (IIMs) and other top business schools.",
+      "colleges": ["IIM Ahmedabad", "IIM Bangalore", "IIM Calcutta", "FMS Delhi", "SPJIMR Mumbai"],
+      "website": "https://iimcat.ac.in/"
+    },
+    {
+      "name": "GMAT",
+      "full_name": "Graduate Management Admission Test",
+      "info": "A globally recognized exam for admission to MBA and other graduate management programs. Required by top Indian B-Schools like ISB and for studying abroad.",
+      "colleges": ["ISB Hyderabad", "SPJIMR", "XLRI", "Global B-Schools (Harvard, Wharton)"],
+      "website": "https://www.mba.com/exams/gmat"
+    },
+    {
+      "name": "XAT",
+      "full_name": "Xavier Aptitude Test",
+      "info": "An important MBA entrance exam conducted by XLRI Jamshedpur, used by over 160 business schools for admission.",
+      "colleges": ["XLRI", "XIMB", "IMT Ghaziabad", "MICA"],
+      "website": "https://xatonline.in/"
+    },
+    {
+      "name": "SNAP",
+      "full_name": "Symbiosis National Aptitude Test",
+      "info": "The mandatory entrance exam for admission to the 16 institutes under Symbiosis International (Deemed) University.",
+      "colleges": ["SIBM Pune", "SCMHRD", "SIIB"],
+      "website": "https://www.snaptest.org/"
     }
   ],
   "Law": [
     {
       "name": "CLAT",
       "full_name": "Common Law Admission Test",
-      "website": "https://consortiumofnlus.ac.in/",
-      "info": "A centralized national level entrance test for admissions to 22 National Law Universities (NLUs) in India.",
-      "colleges": ["NLSIU Bangalore", "NALSAR Hyderabad", "WBNUJS Kolkata"]
+      "info": "A centralized national level entrance test for admissions to 24 National Law Universities (NLUs) in India for undergraduate (BA LLB) and postgraduate (LLM) programs.",
+      "colleges": ["NLSIU Bangalore", "NALSAR Hyderabad", "WBNUJS Kolkata", "Other NLUs"],
+      "website": "https://consortiumofnlus.ac.in/"
     },
     {
       "name": "AILET",
       "full_name": "All India Law Entrance Test",
-      "website": "https://nationallawuniversitydelhi.in/",
-      "info": "Conducted specifically for admission to the B.A. LLB (Hons.) program at National Law University, Delhi (NLU-D).",
-      "colleges": ["National Law University (NLU), Delhi"]
+      "info": "Conducted by National Law University Delhi (NLU Delhi) exclusively for admission to its BA LLB (Hons), LLM, and PhD programs.",
+      "colleges": ["NLU Delhi"],
+      "website": "https://nationallawuniversitydelhi.in/"
     }
   ],
-  "Design": [
+  "Architecture & Design": [
     {
-      "name": "NID DAT",
-      "full_name": "National Institute of Design - Design Aptitude Test",
-      "website": "https://admissions.nid.edu/",
-      "info": "A two-stage entrance exam for admission to Bachelor of Design (B.Des) and Master of Design (M.Des) programs at NIDs.",
-      "colleges": ["NID Ahmedabad", "NID Bengaluru", "NID Gandhinagar"]
-    },
-    {
-      "name": "NIFT Entrance Exam",
-      "full_name": "National Institute of Fashion Technology Entrance Exam",
-      "website": "https://www.nift.ac.in/",
-      "info": "An entrance exam for admission to design (B.Des) and technology (B.F.Tech) programs at NIFT campuses across India.",
-      "colleges": ["NIFT Delhi", "NIFT Mumbai", "NIFT Bengaluru"]
+      "name": "NATA",
+      "full_name": "National Aptitude Test in Architecture",
+      "info": "A national-level undergraduate exam for admission to 5-year B.Arch degree courses. It measures aptitude in drawing, observation, and critical thinking.",
+      "colleges": ["Sir J.J. College of Architecture", "CEPT University", "SPA Delhi"],
+      "website": "https://www.nata.in/"
     },
     {
       "name": "UCEED",
       "full_name": "Undergraduate Common Entrance Examination for Design",
-      "website": "https://www.uceed.iitb.ac.in/",
-      "info": "Conducted by IIT Bombay for admission to Bachelor of Design (B.Des) programs at IIT Bombay, IIT Delhi, IIT Guwahati, and IIT Hyderabad.",
-      "colleges": ["IIT Bombay", "IIT Delhi", "IIT Guwahati", "IIT Hyderabad"]
-    }
-  ],
-  "Management": [
-    {
-        "name": "CAT",
-        "full_name": "Common Admission Test",
-        "website": "https://iimcat.ac.in/",
-        "info": "The premier entrance exam for admission to MBA and other postgraduate management programs at all IIMs and many other top B-schools in India.",
-        "colleges": ["All IIMs", "FMS Delhi", "SPJIMR Mumbai"]
+      "info": "A national-level entrance exam for admission to Bachelor of Design (B.Des) programs at IITs.",
+      "colleges": ["IIT Bombay", "IIT Delhi", "IIT Guwahati"],
+      "website": "https://www.uceed.iitb.ac.in/"
     },
     {
-        "name": "XAT",
-        "full_name": "Xavier Aptitude Test",
-        "website": "https://xatonline.in/",
-        "info": "A national-level management entrance test for admission to XLRI Jamshedpur and other prestigious management institutes.",
-        "colleges": ["XLRI Jamshedpur", "IMT Ghaziabad", "XIMB Bhubaneswar"]
+      "name": "NID DAT",
+      "full_name": "National Institute of Design Design Aptitude Test",
+      "info": "A two-stage entrance exam for admission to Bachelor and Master of Design programs at the prestigious National Institutes of Design.",
+      "colleges": ["NID Ahmedabad", "NID Bangalore", "NID Gandhinagar"],
+      "website": "https://admissions.nid.edu/"
+    },
+    {
+      "name": "NIFT Entrance Exam",
+      "full_name": "National Institute of Fashion Technology Entrance Exam",
+      "info": "The primary entrance exam for admission to design, management, and technology programs at the National Institutes of Fashion Technology.",
+      "colleges": ["NIFT Delhi", "NIFT Mumbai", "NIFT Bangalore"],
+      "website": "https://www.nift.ac.in/"
+    }
+  ],
+  "Commerce & Finance": [
+    {
+      "name": "CA Exams",
+      "full_name": "Chartered Accountancy Examinations",
+      "info": "A series of professional examinations (Foundation, Intermediate, Final) conducted by ICAI to become a certified Chartered Accountant.",
+      "colleges": ["(Professional certification, not a college degree)"],
+      "website": "https://www.icai.org/"
+    },
+    {
+      "name": "CS Exams",
+      "full_name": "Company Secretary Examinations",
+      "info": "Professional exams (CSEET, Executive, Professional) by ICSI to become a Company Secretary, an expert in corporate law and governance.",
+      "colleges": ["(Professional certification)"],
+      "website": "https://www.icsi.edu/"
+    },
+    {
+      "name": "CMA Exams",
+      "full_name": "Cost and Management Accountant Examinations",
+      "info": "Professional exams (Foundation, Intermediate, Final) by ICMAI for certification as a Cost & Management Accountant, specializing in cost and management accounting.",
+      "colleges": ["(Professional certification)"],
+      "website": "https://icmai.in/"
+    }
+  ],
+  "Humanities & Social Sciences": [
+    {
+      "name": "CUET",
+      "full_name": "Common University Entrance Test",
+      "info": "A national-level entrance examination for admission to various undergraduate programs in Central, State, and other participating universities.",
+      "colleges": ["Delhi University (DU)", "Jawaharlal Nehru University (JNU)", "Banaras Hindu University (BHU)"],
+      "website": "https://cuet.samarth.ac.in/"
+    },
+    {
+      "name": "UGC NET",
+      "full_name": "University Grants Commission National Eligibility Test",
+      "info": "A test to determine the eligibility for Assistant Professor and/or Junior Research Fellowship (JRF) award in Indian universities.",
+      "colleges": ["(Eligibility for teaching and PhD programs)"],
+      "website": "https://ugcnet.nta.nic.in/"
+    },
+    {
+      "name": "TISSNET",
+      "full_name": "Tata Institute of Social Sciences National Entrance Test",
+      "info": "Entrance test for admission to various MA programs in Social Work, Human Resources Management, and other social sciences at the Tata Institute of Social Sciences.",
+      "colleges": ["TISS Mumbai", "TISS Tuljapur", "TISS Hyderabad"],
+      "website": "https://tiss.edu/"
+    }
+  ],
+  "Hotel Management": [
+    {
+      "name": "NCHMCT JEE",
+      "full_name": "National Council for Hotel Management and Catering Technology Joint Entrance Examination",
+      "info": "A national-level entrance exam for admission to B.Sc. in Hospitality and Hotel Administration programs offered by IHMs and other institutions.",
+      "colleges": ["IHM Pusa (New Delhi)", "IHM Mumbai", "IHM Bangalore"],
+      "website": "https://nchmjee.nta.nic.in/"
+    }
+  ],
+  "Agriculture": [
+    {
+      "name": "ICAR AIEEA",
+      "full_name": "Indian Council of Agricultural Research All India Entrance Examination for Admission",
+      "info": "An entrance exam for admission to Bachelor, Master, and Doctoral degree programs in agriculture and allied sciences.",
+      "colleges": ["Indian Agricultural Research Institute (IARI)", "National Dairy Research Institute (NDRI)"],
+      "website": "https://icar.org.in/"
+    }
+  ],
+  "Defence Services": [
+    {
+      "name": "NDA & NA Exam",
+      "full_name": "National Defence Academy & Naval Academy Examination",
+      "info": "Conducted by UPSC for admission to the Army, Navy, and Air Force wings of the NDA for 10+2 candidates.",
+      "colleges": ["National Defence Academy (NDA)", "Indian Naval Academy (INA)"],
+      "website": "https://upsc.gov.in/"
+    },
+    {
+      "name": "CDS Exam",
+      "full_name": "Combined Defence Services Examination",
+      "info": "Conducted by UPSC for recruiting officers into the Indian Military Academy, Officers Training Academy, Indian Naval Academy, and Indian Air Force Academy.",
+      "colleges": ["IMA", "OTA", "INA", "AFA"],
+      "website": "https://upsc.gov.in/"
+    }
+  ],
+  "Civil Services": [
+    {
+      "name": "UPSC CSE",
+      "full_name": "Union Public Service Commission Civil Services Examination",
+      "info": "A nationwide competitive examination for recruitment to various Civil Services of the Government of India, including IAS, IPS, and IFS.",
+      "colleges": ["(Recruitment for All India Services)"],
+      "website": "https://upsc.gov.in/"
     }
   ]
 }
